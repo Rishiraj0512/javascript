@@ -3,6 +3,8 @@ let accountEmail = "rishi.com"
 var accountPassword = "12545"
 accountCity = "up"
 
-accountId = 2
+// accountId = 2
 
 console.log(accountId);
+
+console.table([accountEmail, accountPassword, accountCity]);
